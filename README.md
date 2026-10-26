@@ -60,7 +60,7 @@ Sistema desenvolvido para gerenciamento financeiro.
 
 **Tecnologias:** JavaScript
 
-🔗 [Ver projeto](https://github.com/Gabezinho20/SistemGestFin)
+🔗 [Ver projeto](https://github.com/Marques-doc/SistemGestFin)
 
 ---
 
@@ -70,7 +70,7 @@ Sistema desenvolvido para monitoramento de colaboradores e controle de informaç
 
 **Tecnologias:** JavaScript
 
-🔗 [Ver projeto](https://github.com/Gabezinho20/surplus_Monitoring_System)
+🔗 [Ver projeto](https://github.com/Marques-doc/surplus_Monitoring_System)
 
 ---
 
@@ -80,7 +80,7 @@ Projeto desenvolvido em Java utilizando conceitos de estrutura de dados e busca 
 
 **Tecnologias:** Java
 
-🔗 [Ver projeto](https://github.com/Gabezinho20/Primeiro-aplica-o-java-dfs-fala_comigo)
+🔗 [Ver projeto](https://github.com/Marques-doc/Primeiro-aplica-o-java-dfs-fala_comigo)
 
 ---
 
@@ -88,9 +88,9 @@ Projeto desenvolvido em Java utilizando conceitos de estrutura de dados e busca 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabezinho20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marques-doc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabezinho20&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marques-doc&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -100,7 +100,7 @@ Projeto desenvolvido em Java utilizando conceitos de estrutura de dados e busca 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabezinho20&theme=tokyonight&hide_border=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Marques-doc&theme=tokyonight&hide_border=false" />
 
 </div>
 
@@ -136,7 +136,7 @@ Projeto desenvolvido em Java utilizando conceitos de estrutura de dados e busca 
 <div align="center">
 
 <a href="https://github.com/Gabezinho20">
-  <img src="https://img.shields.io/badge/GitHub-Gabezinho20-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Marques-doc-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
